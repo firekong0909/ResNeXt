@@ -12,7 +12,7 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 	ResNet-50|24.7%|7.8%
 	ResNet-101|23.6%|7.1%
 	ResNet-152|23.0%|6.7%
-  ResNeXt-101|22.1%|5.8%
+        **ResNeXt-101**|**22.1**%|**5.8**%
   
 1. Model files:
 	OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495LrjgyQx2cKLOXKEQgN)
