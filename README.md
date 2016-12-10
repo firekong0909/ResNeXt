@@ -18,8 +18,6 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 
 | Network    |crop-size | top-1 |  top-5 |
 | :------:   | :---: | :---: |:---: |
-|ResNet-101-v1  | 224x224 |23.6%|7.1%|
-|ResNet-101-v2  | 224x224 |24.6%|7.5%|
 |ResNet-152-v1  | 320x320 |21.3%|5.5%|
 |ResNet-152-v2  | 320x320 |21.1%|5.5%|
 |ResNet-200-v1  | 320x320 |21.8%|6.0%|
