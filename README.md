@@ -12,6 +12,7 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 	ResNet-50|24.7%|7.8%
 	ResNet-101|23.6%|7.1%
 	ResNet-152|23.0%|6.7%
+	**ResNeXt-50**|**23.1**%|**6.7**%
         **ResNeXt-101**|**22.1**%|**5.8**%
 	
 1. 1-crop validation error on ImageNet (center 320x320 crop from resized image with shorter side=320):
@@ -22,8 +23,10 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 |ResNet-152-v2  | 320x320 |21.1%|5.5%|
 |ResNet-200-v1  | 320x320 |21.8%|6.0%|
 |ResNet-200-v2  | 320x320 |20.7%|5.3%|
+|**ResNeXt-50**    | 320x320 |**21.9**%|**5.9**%|
 |**ResNeXt-101**    | 320x320 |**20.2**%|**4.9**%|
 
   
 2. Model files:
-	OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495LrjgyQx2cKLOXKEQgN)
+   ResNext-50 OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495Lrjg3NE0LxvH-7R81B)
+   ResNext-101 OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495LrjgyQx2cKLOXKEQgN)
