@@ -27,7 +27,7 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 |**ResNeXt-101**    | 320x320 |**20.2**%|**4.9**%|
 
   
-2. Model files:
+### Model files:
 
    ResNeXt-50 OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495Lrjg3NE0LxvH-7R81B)
    
