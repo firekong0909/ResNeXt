@@ -28,6 +28,8 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 |ResNet-200-v2  | 320x320 |20.7%|5.3%|
 |**ResNeXt-50**    | 320x320 |**21.9**%|**5.9**%|
 |**ResNeXt-101**    | 320x320 |**20.2**%|**4.9**%|
+|**ResNeXt-152**    | 320x320 |**19.9**%|**4.8**%|
+
 
   
 ### Model files:
