@@ -37,3 +37,5 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
    ResNeXt-50 OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495Lrjg3NE0LxvH-7R81B)
    
    ResNeXt-101 OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495LrjgyQx2cKLOXKEQgN)
+   
+   ResNeXt-152 OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495Lrjk2kN1ebw77WkyZN)
