@@ -31,7 +31,14 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 |**ResNeXt-152**    | 320x320 |**19.9**%|**4.8**%|
 
 
-  
+### Training Curve:
+
+<div align="left">
+  <img src="training-curve.png"/>
+</div>
+
+
+
 ### Model files:
 
    ResNeXt-50 OneDrive download: [link](https://1drv.ms/u/s!Aqd-q_R495Lrjg3NE0LxvH-7R81B)
