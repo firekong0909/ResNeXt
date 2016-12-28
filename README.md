@@ -33,9 +33,6 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 
 ### Training Curve:
 
-<div align="left">
-  <img src="training-curve.png"/>
-</div>
 
 
 
