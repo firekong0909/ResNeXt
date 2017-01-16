@@ -30,7 +30,7 @@ Reproduce ResNet-v3(Aggregated Residual Transformations for Deep Neural Network)
 |**ResNeXt-50**    | 320x320 |**21.9**%|**5.9**%|
 |**ResNeXt-101(32x4d)**    | 320x320 |**20.2**%|**4.9**%|
 |**ResNeXt-152**    | 320x320 |**19.9**%|**4.8**%|
-|**ResNeXt-101(64x4d)**    | 320x320 |**19.8**%|**4.8**%|
+|**ResNeXt-101(64x4d)**    | 320x320 |**19.7**%|**4.8**%|
 
 
 ### Training Curve:
